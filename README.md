@@ -1,7 +1,5 @@
 ## Hi. 👋
 
-### My name is Felix Kästner.
-
 I am a software developer and solutions architect specialized in cloud computing and data science. I live in Dresden where I studied Computer Science at [Technische Universität Dresden](https://tu-dresden.de), receiving the academic title _Master of Science_.
 
 I'm currently working as a Backend Engineer at [LOVOO](https://www.lovoo.com) where I am part of a cross-functional team developing new product features of the LOVOO App. As part of my work I implement microservices in Go with gRPC and maintain our infrastructure on the Google Cloud.
