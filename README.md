@@ -2,7 +2,7 @@
 
 #### About Me
 
-I am an software engineer specialized in cloud computing and data science living in Dresden, Germany. 🦦 I strive to learn new things and develop skills in a range of different areas.🌱 I'm currently accepting freelance work, so if you have an interesting project or want to ask me anything 💬, you can reach out and send me a [mail](mailto:hey@felix-kaestner.com). 📫 
+I am a software engineer specialized in cloud computing and data science living in Dresden, Germany. 🦦 I strive to learn new things and develop skills in a range of different areas. 🌱 I'm currently accepting freelance work, so if you have an interesting project or want to ask me anything 💬, you can reach out and send me a [mail](mailto:hey@felix-kaestner.com). 📫 
 
 #### Contact
 
