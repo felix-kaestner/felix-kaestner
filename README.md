@@ -11,5 +11,8 @@ I am a senior software engineer specialized in cloud computing and data science 
 
 #### Professional Certification
 [![Cloud Digital Leader](https://img.shields.io/badge/Cloud_Digital_Leader-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white&link=https://www.credly.com/badges/be8a3c1b-d7a1-4d68-b637-503eb442db29/public_url)](https://www.credly.com/badges/be8a3c1b-d7a1-4d68-b637-503eb442db29/public_url)
+[![Associate Cloud Engineer](https://img.shields.io/badge/Associate_Cloud_Engineer-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white&link=https://www.credly.com/badges/10992272-ab27-45c0-bcff-9814d47e4c60/public_url)](https://www.credly.com/badges/10992272-ab27-45c0-bcff-9814d47e4c60/public_url)
+
+
 
 <!-- **felix-kaestner/felix-kaestner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
